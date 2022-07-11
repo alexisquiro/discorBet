@@ -1,0 +1,16 @@
+{
+  "name": "discordapuestas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "binance-api-node": "^0.11.40",
+    "discord.js": "^13.1.0",
+    "nodemon": "^2.0.19"
+  }
+}
